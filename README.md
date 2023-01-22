@@ -4,7 +4,7 @@ A sample Flutter app that demonstrates the use of basic features of the Flutter 
 
 ## Screenshots
 
-<img src="screenshots/screenshot1.png" width="250">![Screenshot 1](screenshots/screenshot1.png | width=250) 
+<img src="screenshots/screenshot1.png" width="250">
 
 
 ## Features
